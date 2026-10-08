@@ -449,7 +449,7 @@ new file mode 100644
 index 0000000..c112ac4
 --- /dev/null
 +++ b/finetuning/infer_lora_custom_voice.py
-@@ -0,0 +1,167 @@
+@@ -0,0 +1,168 @@
 +# coding=utf-8
 +# Copyright 2026 The Alibaba Qwen team.
 +# SPDX-License-Identifier: Apache-2.0
